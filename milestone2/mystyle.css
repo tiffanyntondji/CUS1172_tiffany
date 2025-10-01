@@ -1,5 +1,33 @@
-h1 {
-  color:red;
-  backgriund-color:yellow;
+h2{
+    text-align: Center;
+}
 
-]
+.highlight {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#main-title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.underline {
+    color: green;
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#public {
+    font-size: 18px;
+    text-align: center;
+}
+
+li{
+    list-style-position: inside;
+    text-align: center;
+}
